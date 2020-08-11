@@ -1,7 +1,7 @@
 ---
 layout: art
 title: Monsters
-tagline: 🤖
+tagline: Fine tip pen and graphite pencil
 image: 17.jpg
 ---
 “The monsters were never
