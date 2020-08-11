@@ -1,7 +1,7 @@
 ---
 layout: art
-title: Fine tip pen
-tagline: 💐
+title: Flowers
+tagline: Fine tip pen
 image: 16.jpg
 ---
 Quick little sketch of flowers ☺️
