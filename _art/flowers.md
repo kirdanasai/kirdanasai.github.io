@@ -1,6 +1,6 @@
 ---
 layout: art
-title: Flowers
+title: Medium: Fine tip pen
 tagline: 💐
 image: 16.jpg
 ---
