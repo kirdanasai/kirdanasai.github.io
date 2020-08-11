@@ -1,7 +1,7 @@
 ---
 layout: art
 title: Fluffy Penguin
-tagline: 🐧
+tagline: Watercolour
 image: 8.jpg
 ---
 Fluffy Penguin🐧

@@ -1,7 +1,7 @@
 ---
 layout: art
 title: Bunny
-tagline: 🐰
+tagline: Watercolour
 image: 5.jpg
 ---
 Bunny 🐰

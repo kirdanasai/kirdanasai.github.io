@@ -1,7 +1,7 @@
 ---
 layout: art
 title: Eyes
-tagline: ✏️
+tagline: Graphite pencil
 image: 3.jpg
 ---
 ✏️ #pencil #eyes

@@ -1,7 +1,7 @@
 ---
 layout: art
 title: Aunty & Uncle
-tagline: A portrait of my aunty and uncle requested by @vithusha0901.
+tagline: Graphite pencil
 image: 2.jpg
 ---
 I haven’t posted in a while... again 🥺 unfortunately not been feeling great.
