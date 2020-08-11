@@ -1,7 +1,7 @@
 ---
 layout: art
 title: Bunny
-tagline: Painted using watercolours.
+tagline: Medium: Watercolour
 image: 5.jpg
 ---
 Bunny 🐰
